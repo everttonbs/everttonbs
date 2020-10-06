@@ -7,14 +7,20 @@
   </table>
 </center> 
 
-### Hi there 👋
+### Hello, World!
 
 ---
+Graduando em Ciência da Computação no Instituto de Computação na Universidade Federal de Alagoas ([UFAL](https://ufal.br/))
 
-Sou desenvolvedor no Laboratório de Computação Científica e Visualização ([LCCV](https://lccv.ufal.br/)). 
-Membro do diretório acadêmico do Instituto de Computação - UFAL([DIACOM](https://www.instagram.com/diacomufa)),
-membro da Liga Acadêmica de Computação ([LACOMP](https://www.instagram.com/lacomp.ufal/)),
-membro do grupo Academia Hacker ([AcHa](https://www.instagram.com/acha.ufal/)) e organizador do ([Salva Semestre](https://www.instagram.com/salvasemestreic/)) no Instituto de Computação - UFAL
+Pesquisador e desenvolvedor no Laboratório de Computação Científica e Visualização ([LCCV](https://lccv.ufal.br/)). 
+
+Membro do diretório acadêmico do Instituto de Computação - UFAL([DIACOM](https://www.instagram.com/diacomufa)).
+
+Membro da Liga Acadêmica de Computação ([LACOMP](https://www.instagram.com/lacomp.ufal/)).
+
+Membro do grupo Academia Hacker ([AcHa](https://www.instagram.com/acha.ufal/)).
+
+Organizador do ([Salva Semestre](https://www.instagram.com/salvasemestreic/)) no Instituto de Computação - UFAL
 
 ---
 
