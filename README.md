@@ -9,6 +9,15 @@
 
 ### Hi there 👋
 
+---
+
+Sou desenvolvedor no Laboratório de Computação Científica e Visualização ([LCCV](https://lccv.ufal.br/)). 
+Membro do diretório acadêmico do Instituto de Computação - UFAL([DIACOM](https://www.instagram.com/diacomufa)),
+membro da Liga Acadêmica de Computação ([LACOMP](https://www.instagram.com/lacomp.ufal/)),
+membro do grupo Academia Hacker ([AcHa](https://www.instagram.com/acha.ufal/)) e organizador do ([Salva Semestre](https://www.instagram.com/salvasemestreic/)) no Instituto de Computação - UFAL
+
+---
+
 <!--
 **everttonbs/everttonbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
