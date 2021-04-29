@@ -24,6 +24,13 @@ Organizador do ([Salva Semestre](https://www.instagram.com/salvasemestreic/)) no
 
 ---
 
+### Contato
+<p align=midlle>    
+    <a href = "https://www.linkedin.com/in/everttonbs/" title="linkedin">
+        <img height=25 align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</p>
+
 <!--
 **everttonbs/everttonbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
