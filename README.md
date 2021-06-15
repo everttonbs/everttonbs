@@ -14,13 +14,9 @@ Graduando em Ciência da Computação no Instituto de Computação na Universida
 
 Pesquisador e desenvolvedor no Laboratório de Computação Científica e Visualização ([LCCV](https://lccv.ufal.br/)). 
 
-Membro do diretório acadêmico do Instituto de Computação - UFAL([DIACOM](https://www.instagram.com/diacomufa)).
-
-Membro da Liga Acadêmica de Computação ([LACOMP](https://www.instagram.com/lacomp.ufal/)).
-
 Membro do grupo Academia Hacker ([AcHa](https://www.instagram.com/acha.ufal/)).
 
-Organizador do ([Salva Semestre](https://www.instagram.com/salvasemestreic/)) no Instituto de Computação - UFAL
+Pesquisador e líder do Red Team no ([CyberSec - CPTE (IC/UFAL)](https://www.linkedin.com/company/cybersec-cpte/)). Grupo de Trabalho focado em Segurança da Informação e Defesa Cibernética.
 
 ---
 
