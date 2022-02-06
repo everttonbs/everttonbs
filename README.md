@@ -12,8 +12,6 @@
 ---
 Graduando em Ciência da Computação no Instituto de Computação na Universidade Federal de Alagoas ([UFAL](https://ufal.br/))
 
-Pesquisador e desenvolvedor no Laboratório de Computação Científica e Visualização ([LCCV](https://lccv.ufal.br/)). 
-
 Membro do grupo Academia Hacker ([AcHa](https://www.instagram.com/acha.ufal/)).
 
 Pesquisador e líder do Red Team no ([CyberSec - CPTE (IC/UFAL)](https://www.linkedin.com/company/cybersec-cpte/)). Grupo de Trabalho focado em Segurança da Informação e Defesa Cibernética.
